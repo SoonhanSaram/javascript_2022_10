@@ -31,3 +31,8 @@
 
 6. upload하기
 * git push -u origin master 
+
+## 프로젝트 수정(변경, 추가, 내용삭제)
+* git add . 
+* git commit -m "수정한 내용 comment"
+* git push 
