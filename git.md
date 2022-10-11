@@ -36,3 +36,17 @@
 * git add . 
 * git commit -m "수정한 내용 comment"
 * git push 
+
+## github 에서 최초로 프로젝트 다운로드 받기
+* github.com 에 로그인하기
+* repository 의 주소 복사하기
+* bash 를 열고
+* git clone 주소붙이기(shift+insert)
+
+## 다운로드 후에 내용 변경한 후 다시 push
+* git add . 
+* git commit -m "다시 push"
+* git push 
+
+## 원격 repository 에서 변경된 내용 가져오기
+* git pull
